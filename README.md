@@ -1,13 +1,14 @@
 # backend
 requirements:
 
-'''python
+```python
 pip install -r requirements.txt
-'''
+```
 ## Запуск
-'''python
+```python
 uvicorn main:application
-'''
+```
 ## Тесты
-'''python
+```python
 pytest test_homework_1.py
+```
